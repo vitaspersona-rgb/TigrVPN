@@ -1,18 +1,26 @@
 # TigrVPN
 
-Клиент VPN для Android.
+Клиент VPN.
 
-## Скачать
+## Скачать Android
 
 **Актуальная версия (ссылка не меняется):**
 
 https://github.com/vitaspersona-rgb/TigrVPN/releases/latest/download/TigrVPN.apk
 
-Все релизы: https://github.com/vitaspersona-rgb/TigrVPN/releases
+Все релизы Android: https://github.com/vitaspersona-rgb/TigrVPN/releases
 
-## Установка
+## Скачать Windows
+
+Отдельный релиз (не путать с APK):
+
+https://github.com/vitaspersona-rgb/TigrVPN/releases/download/windows/TigrVPN-Windows.zip
+
+Инструкция: [windows/README.md](windows/README.md)
+
+## Установка Android
 
 1. Скачайте `TigrVPN.apk` по ссылке выше.
-2. На Android разрешите установку из этого источника (браузер / «Файлы»).
+2. На Android разрешите установку из этого источника.
 3. Откройте APK и установите.
 4. При запросе разрешите VPN / создание туннеля.
