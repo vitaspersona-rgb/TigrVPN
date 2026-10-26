@@ -12,9 +12,9 @@ https://github.com/vitaspersona-rgb/TigrVPN/releases/latest/download/TigrVPN.apk
 
 ## Скачать Windows
 
-Отдельный релиз (не путать с APK):
+Отдельный релиз (не путать с APK) — один файл `.exe`:
 
-https://github.com/vitaspersona-rgb/TigrVPN/releases/download/windows/TigrVPN-Windows.zip
+https://github.com/vitaspersona-rgb/TigrVPN/releases/download/windows/TigrVPN-Windows.exe
 
 Инструкция: [windows/README.md](windows/README.md)
 
