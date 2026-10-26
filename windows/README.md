@@ -6,14 +6,13 @@
 
 Постоянная ссылка (обновляется при каждой Windows-выкладке):
 
-https://github.com/vitaspersona-rgb/TigrVPN/releases/download/windows/TigrVPN-Windows.zip
+https://github.com/vitaspersona-rgb/TigrVPN/releases/download/windows/TigrVPN-Windows.exe
 
 ## Установка
 
-1. Скачайте `TigrVPN-Windows.zip`.
-2. Распакуйте в любую папку (например `C:\TigrVPN`).
-3. Запустите `tigrvpn.exe`.
-4. При первом запуске Windows попросит подтвердить UAC — это установка службы VPN. Нажмите **Да**.
+1. Скачайте `TigrVPN-Windows.exe`.
+2. Запустите файл — установщик распакует программу в `%LocalAppData%\TigrVPN` и откроет её.
+3. При первом запуске Windows попросит подтвердить UAC — это установка службы VPN. Нажмите **Да**.
 
 Окно приложения — как на телефоне (390×844).
 
@@ -21,6 +20,6 @@ https://github.com/vitaspersona-rgb/TigrVPN/releases/download/windows/TigrVPN-Wi
 
 | | Android | Windows |
 |---|---|---|
-| Файл | `TigrVPN.apk` | `TigrVPN-Windows.zip` |
+| Файл | `TigrVPN.apk` | `TigrVPN-Windows.exe` |
 | Ссылка | `releases/latest/.../TigrVPN.apk` | `releases/download/windows/...` |
 | Тег релиза | `v0.1.xx` | `windows` |
